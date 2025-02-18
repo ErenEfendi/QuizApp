@@ -2,6 +2,8 @@
 
 A basic QuizApp created with Flutter/Dart
 
+Codes are in the lib folder.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
