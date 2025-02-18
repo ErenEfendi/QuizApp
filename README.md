@@ -1,6 +1,6 @@
-# adv_basics
+# QuizApp
 
-A new Flutter project.
+A basic QuizApp created with Flutter/Dart
 
 ## Getting Started
 
